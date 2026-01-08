@@ -1,8 +1,0 @@
-eda
-features
-ingestion
-models
-pipelines
-preprocessing
-serving
-utils
