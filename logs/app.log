@@ -1,2 +1,18 @@
 2025-12-13 18:03:16,328 | INFO | test | Notebook imports working perfectly
 2025-12-13 18:53:44,766 | INFO | test | Notebook imports working perfectly
+2026-01-10 07:51:52,076 | ERROR | domain2_phase1_health | Failed to fetch year 2000: 400 Client Error: Bad Request for url: https://xmart-api-public.who.int/DEX_CMS/GHE_FULL?%24filter=FLAG_RANKABLE+eq+1+and+DIM_COUNTRY_CODE+eq+%27IND%27+and+DIM_AGEGROUP_CODE+eq+%27TOTAL%27+and+DIM_SEX_CODE+eq+%27BOTH%27+and+DIM_YEAR_CODE+eq+2000&%24select=DIM_YEAR_CODE%2CDIM_GHECAUSE_CODE%2CDIM_GHECAUSE_TITLE%2CDIM_SEX_CODE%2CDIM_AGEGROUP_CODE%2CVAL_DALY_RATE100K_NUMERIC%2CVAL_DTHS_RATE100K_NUMERIC&%24format=json
+2026-01-10 07:54:16,321 | ERROR | domain2_phase1_health | Failed to fetch year 2000: 400 Client Error: Bad Request for url: https://xmart-api-public.who.int/DEX_CMS/GHE_FULL?%24filter=FLAG_RANKABLE+eq+1+and+DIM_COUNTRY_CODE+eq+%27IND%27+and+DIM_AGEGROUP_CODE+eq+%27TOTAL%27+and+DIM_SEX_CODE+eq+%27BOTH%27+and+DIM_YEAR_CODE+eq+2000&%24select=DIM_YEAR_CODE%2CDIM_GHECAUSE_CODE%2CDIM_GHECAUSE_TITLE%2CDIM_SEX_CODE%2CDIM_AGEGROUP_CODE%2CVAL_DALY_RATE100K_NUMERIC%2CVAL_DTHS_RATE100K_NUMERIC&%24format=json
+2026-01-10 17:52:45,380 | INFO | domain2_phase1_health | Starting WHO GHE DALY ingestion
+2026-01-10 18:12:27,232 | INFO | domain2_phase1_health | Starting WHO GHE DALY ingestion
+2026-01-10 18:14:22,285 | INFO | domain2_phase1_health | Starting WHO GHE DALY ingestion
+2026-01-10 18:14:26,471 | INFO | domain2_phase1_health | WHO GHE DALY ingestion completed
+2026-01-11 02:32:34,661 | INFO | domain2_phase1_health | Starting WHO GHE DALY ingestion
+2026-01-11 02:32:39,767 | INFO | domain2_phase1_health | WHO GHE DALY ingestion completed
+2026-01-11 02:38:19,070 | INFO | domain2_phase1_health | Starting WHO GHE DALY ingestion
+2026-01-11 02:38:22,000 | INFO | domain2_phase1_health | WHO GHE DALY ingestion completed
+2026-01-11 19:06:03,692 | INFO | domain2_phase1_health | Starting WHO GHE DALY ingestion
+2026-01-11 19:06:07,435 | INFO | domain2_phase1_health | WHO GHE DALY ingestion completed
+2026-01-11 19:42:12,745 | INFO | domain2_phase1_health | Starting WHO GHE DALY ingestion
+2026-01-11 19:42:14,863 | INFO | domain2_phase1_health | WHO GHE DALY ingestion completed
+2026-01-11 21:59:20,147 | INFO | domain2_phase1_health | Starting WHO GHE DALY ingestion
+2026-01-11 21:59:22,285 | INFO | domain2_phase1_health | WHO GHE DALY ingestion completed

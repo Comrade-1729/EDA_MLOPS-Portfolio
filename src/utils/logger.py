@@ -1,6 +1,6 @@
 from pathlib import Path
 import logging
-from src.utils.path_setup import setup_project_path
+from utils.path_setup import setup_project_path
 
 def get_logger(name: str = "eda_logger", log_file: str = "app.log"):
     logger = logging.getLogger(name)

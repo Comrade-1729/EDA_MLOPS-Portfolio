@@ -1,1 +1,0 @@
-# Simulated REST-style inference

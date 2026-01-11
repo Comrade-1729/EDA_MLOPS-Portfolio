@@ -9,9 +9,4 @@ def load_data(subdir: str, filename: str) -> pd.DataFrame:
     Load CSV from datasets/ directory.
     subdir example: 'raw/climate' or 'processed/health'
     """
-    return pd.read_csv(
-        DATASETS_DIR / subdir / filename,
-        engine="python",
-        sep=";",
-        on_bad_lines="skip"
-    )
+    return pd.read_csv(DATASETS_DIR / subdir / filename)
