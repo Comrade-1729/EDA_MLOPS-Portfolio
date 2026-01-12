@@ -31,3 +31,5 @@
 2026-01-12 17:40:50,203 | INFO | climate_eda | Phase 1 snapshot saved to d:\def_main\Code\MyProjects\eda-mlops-portfolio\datasets\processed\climate\openaq_processed.csv
 2026-01-12 17:40:50,716 | INFO | climate_eda | Pollutants removed (less than 10 observations): {'relativehumidity', 'um003', 'pm1', 'temperature'}
 2026-01-12 17:40:50,719 | INFO | climate_eda | Remaining pollutants: ['pm2.5', 'no2', 'co', 'pm10', 'so2', 'o3']
+2026-01-12 17:53:46,525 | INFO | domain2_phase1_health | Starting WHO GHE DALY ingestion
+2026-01-12 17:53:50,911 | INFO | domain2_phase1_health | WHO GHE DALY ingestion completed
