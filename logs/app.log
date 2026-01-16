@@ -33,3 +33,10 @@
 2026-01-12 17:40:50,719 | INFO | climate_eda | Remaining pollutants: ['pm2.5', 'no2', 'co', 'pm10', 'so2', 'o3']
 2026-01-12 17:53:46,525 | INFO | domain2_phase1_health | Starting WHO GHE DALY ingestion
 2026-01-12 17:53:50,911 | INFO | domain2_phase1_health | WHO GHE DALY ingestion completed
+2026-01-15 18:44:20,694 | INFO | n4_phase1_ingestion | Loaded UNODC homicide dataset
+2026-01-15 18:46:49,491 | INFO | n4_phase1_ingestion | Loaded WHO road traffic mortality dataset
+2026-01-15 18:48:12,521 | INFO | n4_phase1_ingestion | Loaded EM-DAT disaster dataset
+2026-01-15 19:14:44,562 | INFO | n4_phase1_ingestion | Loaded UNODC homicide dataset
+2026-01-15 19:16:26,558 | INFO | n4_phase1_ingestion | Loaded UNODC homicide dataset
+2026-01-15 19:16:26,637 | INFO | n4_phase1_ingestion | Loaded WHO road traffic mortality dataset
+2026-01-15 19:16:35,791 | INFO | n4_phase1_ingestion | Loaded EM-DAT disaster dataset
