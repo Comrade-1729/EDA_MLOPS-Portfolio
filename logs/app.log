@@ -65,3 +65,7 @@
 2026-01-18 04:54:16,256 | INFO | n4_phase1_ingestion | Loaded WHO road traffic mortality dataset
 2026-01-18 04:54:25,740 | INFO | n4_phase1_ingestion | Loaded EM-DAT disaster dataset
 2026-01-18 04:54:52,360 | INFO | n4_phase1_ingestion | All raw datasets loaded for Phase 2
+2026-01-18 05:24:50,717 | INFO | n4_phase1_ingestion | Loaded UNODC homicide dataset
+2026-01-18 05:24:50,802 | INFO | n4_phase1_ingestion | Loaded WHO road traffic mortality dataset
+2026-01-18 05:24:59,010 | INFO | n4_phase1_ingestion | Loaded EM-DAT disaster dataset
+2026-01-18 05:25:25,805 | INFO | n4_phase1_ingestion | All raw datasets loaded for Phase 2
