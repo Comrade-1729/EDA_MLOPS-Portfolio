@@ -268,7 +268,7 @@ This repository is designed for reviewers evaluating **analytical judgment**, in
 
 ## 📌 Final Note
 
-> **The most important output of this project is knowing what not to conclude.**
+> **The most important output of this project is knowing what must not be concluded.**
 
 That mindset is the core signal this portfolio is built to demonstrate.
 
